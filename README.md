@@ -10,7 +10,7 @@ While the project initially only supported static, pre-defined fields, it now pa
 
 ### Preview
 
-![Preview of app](image_url)
+![Preview of app](https://github.com/MarcusB71/cover-letter-automation/blob/main/Preview.png)
 
 ## How to Install and Run
 
